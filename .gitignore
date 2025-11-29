@@ -1,6 +1,6 @@
-./BSF/__pycache__/*
-./Crooked Deck/__pycache__/*
-./ListsAsTrees/__pycache__/*
-./PalendromicGraphs/__pycache__/*
-./RadixSort/__pycache__/*
-./cuckoo/__pycache__/*
+BSF/__pycache__/
+Crooked Deck/__pycache__/
+ListsAsTrees/__pycache__/
+PalendromicGraphs/__pycache__/
+RadixSort/__pycache__/
+cuckoo/__pycache__/
